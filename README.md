@@ -4,7 +4,7 @@ An [agent skill](https://agentskills.io) that sets your [Ghostty](https://ghostt
 
 Works with Claude Code, Cursor, Windsurf, and other AI coding agents that support the Agent Skills standard.
 
-![demo](demo.gif)
+![before-after](before-after.png)
 
 ## Install
 
